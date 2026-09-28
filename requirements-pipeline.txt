@@ -1,0 +1,6 @@
+# Offline pipeline (scrape -> chunk -> embed -> upload) + tests
+-r requirements.txt
+beautifulsoup4
+requests
+tiktoken
+pytest

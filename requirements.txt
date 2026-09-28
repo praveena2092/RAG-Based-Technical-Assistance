@@ -1,0 +1,7 @@
+# Runtime dependencies (used by the API on Vercel)
+fastapi
+uvicorn
+httpx
+python-dotenv
+qdrant-client>=1.9
+pydantic
